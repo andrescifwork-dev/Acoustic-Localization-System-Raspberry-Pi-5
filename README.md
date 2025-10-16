@@ -1,4 +1,4 @@
-# TriMic Acoustic Radar Node – Raspberry Pi 5
+# Acoustic Radar Node – Raspberry Pi 5
 
 ## 🔎 Overview
 This project implements an **acoustic radar node** based on **three industrial-grade microphones** connected to a **Raspberry Pi 5**.  
